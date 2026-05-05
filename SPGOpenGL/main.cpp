@@ -27,6 +27,8 @@ GLuint shader_programme, vao;
 
 glm::mat4 projectionMatrix, viewMatrix;
 
+glm::vec3 pozObs= pozObss, punctObs= punctObss, rotDir= rotDirr;
+
 float points[] = {
 ox,oy,oz
 };
@@ -135,7 +137,7 @@ void reshape(int w, int h)
 	- punctul catre care priveste observatorul
 	- directia dupa care este orientat observatorul
 	*/
-	viewMatrix = glm::lookAt(pozObs,punctObs,punctDir);
+	viewMatrix = glm::lookAt(pozObs,punctObs,rotDir);
 	glutPostRedisplay();
 }
 
@@ -152,6 +154,7 @@ int main(int argc, char** argv)
 	
 	glutReshapeFunc(reshape);
 	glutMouseFunc(mouse_miscare);
+	
 	glutMainLoop();
 	return 0;
 }

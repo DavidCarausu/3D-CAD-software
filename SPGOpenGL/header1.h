@@ -13,10 +13,11 @@
 #include <glm/gtc/type_ptr.hpp>
 #include <glm/gtc/constants.hpp>
 
-#define pozObs glm::vec3(xv, yv, zv)
-#define punctObs glm::vec3(xObs, yObs, zObs)
-#define punctDir glm::vec3(xDir, yDir, zDir)
-#define look glm::lookAt(pozObs,punctObs,punctDir)
+extern glm::vec3 pozObs, punctObs, rotDir;
+#define pozObss glm::vec3(xv, yv, zv) //poz camera
+#define punctObss glm::vec3(xObs, yObs, zObs) //poz punct OBS
+#define rotDirr glm::vec3(xDir, yDir, zDir) //rotatia acelei axe
+#define look glm::lookAt(pozObs,punctObs,rotDir)
 //definim normala pentru vcs:
 #define NORMALA glm::vec3(xObs-xv, yObs-yv, zObs-zv)
 #define incrementZoom 0.9f
@@ -26,6 +27,10 @@
 #define ox  origin, 16.0f, 0.0f, 0.0f
 #define oy  origin, 0.0f, 16.0f, 0.0f 
 #define oz  origin, 0.0f, 0.0f, 16.0f 
+
+extern float PanDx, PanDy, PanDz;
+extern float PanSensitivity;
+#define PanVec vec3(PanDx,PanDy,PanDz)
 
 extern float xv , yv , zv ; //originea sistemului de observare
 extern float xObs , yObs , zObs ;

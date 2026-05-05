@@ -1,121 +1,93 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\",
+  "WorkspaceRootPath": "C:\\Users\\david\\IdeaProjects\\Game_menu\\3D-CAD-software\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98D31254-17D8-41DA-A4C4-778E93D6AADC}|SPGOpenGL\\SPGOpenGL.vcxproj|D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\functii_mouse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{98D31254-17D8-41DA-A4C4-778E93D6AADC}|SPGOpenGL\\SPGOpenGL.vcxproj|C:\\Users\\david\\IdeaProjects\\Game_menu\\3D-CAD-software\\SPGOpenGL\\functii_mouse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{98D31254-17D8-41DA-A4C4-778E93D6AADC}|SPGOpenGL\\SPGOpenGL.vcxproj|solutionrelative:SPGOpenGL\\functii_mouse.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98D31254-17D8-41DA-A4C4-778E93D6AADC}|SPGOpenGL\\SPGOpenGL.vcxproj|D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\header1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{98D31254-17D8-41DA-A4C4-778E93D6AADC}|SPGOpenGL\\SPGOpenGL.vcxproj|solutionrelative:SPGOpenGL\\header1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{98D31254-17D8-41DA-A4C4-778E93D6AADC}|SPGOpenGL\\SPGOpenGL.vcxproj|D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{98D31254-17D8-41DA-A4C4-778E93D6AADC}|SPGOpenGL\\SPGOpenGL.vcxproj|C:\\Users\\david\\IdeaProjects\\Game_menu\\3D-CAD-software\\SPGOpenGL\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{98D31254-17D8-41DA-A4C4-778E93D6AADC}|SPGOpenGL\\SPGOpenGL.vcxproj|solutionrelative:SPGOpenGL\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98D31254-17D8-41DA-A4C4-778E93D6AADC}|SPGOpenGL\\SPGOpenGL.vcxproj|D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\fragment.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{98D31254-17D8-41DA-A4C4-778E93D6AADC}|SPGOpenGL\\SPGOpenGL.vcxproj|solutionrelative:SPGOpenGL\\fragment.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{98D31254-17D8-41DA-A4C4-778E93D6AADC}|SPGOpenGL\\SPGOpenGL.vcxproj|C:\\Users\\david\\IdeaProjects\\Game_menu\\3D-CAD-software\\SPGOpenGL\\header1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D31254-17D8-41DA-A4C4-778E93D6AADC}|SPGOpenGL\\SPGOpenGL.vcxproj|solutionrelative:SPGOpenGL\\header1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98D31254-17D8-41DA-A4C4-778E93D6AADC}|SPGOpenGL\\SPGOpenGL.vcxproj|D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\vertex.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{98D31254-17D8-41DA-A4C4-778E93D6AADC}|SPGOpenGL\\SPGOpenGL.vcxproj|solutionrelative:SPGOpenGL\\vertex.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\david\\IdeaProjects\\Game_menu\\3D-CAD-software\\SPGOpenGL\\include\\glm\\detail\\type_vec3.inl||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SPGOpenGL\\include\\glm\\detail\\type_vec3.inl||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
-      "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "main.cpp",
-              "DocumentMoniker": "D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\main.cpp",
-              "RelativeDocumentMoniker": "SPGOpenGL\\main.cpp",
-              "ToolTip": "D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\main.cpp",
-              "RelativeToolTip": "SPGOpenGL\\main.cpp",
-              "ViewState": "AgIAAGoAAAAAAAAAAAAAAD0AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-03T16:44:01.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "vertex.vert",
-              "DocumentMoniker": "D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\vertex.vert",
-              "RelativeDocumentMoniker": "SPGOpenGL\\vertex.vert",
-              "ToolTip": "D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\vertex.vert",
-              "RelativeToolTip": "SPGOpenGL\\vertex.vert",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-03T16:53:28.429Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "fragment.frag",
-              "DocumentMoniker": "D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\fragment.frag",
-              "RelativeDocumentMoniker": "SPGOpenGL\\fragment.frag",
-              "ToolTip": "D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\fragment.frag",
-              "RelativeToolTip": "SPGOpenGL\\fragment.frag",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-05-03T16:53:27.02Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
-    },
-    {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "FloatingWindowState": {
-        "Id": "42cdc047-318f-4dd3-ab5e-0feab7b9052b",
-        "Display": 0,
-        "X": 216,
-        "Y": 0,
-        "Width": 482,
-        "Height": 1397,
-        "WindowState": 0
-      },
       "DocumentGroups": [
         {
           "DockedWidth": 200,
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "header1.h",
-              "DocumentMoniker": "D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\header1.h",
-              "RelativeDocumentMoniker": "SPGOpenGL\\header1.h",
-              "ToolTip": "D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\header1.h",
-              "RelativeToolTip": "SPGOpenGL\\header1.h",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-05-04T19:43:44.488Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "functii_mouse.cpp",
-              "DocumentMoniker": "D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\functii_mouse.cpp",
+              "DocumentMoniker": "C:\\Users\\david\\IdeaProjects\\Game_menu\\3D-CAD-software\\SPGOpenGL\\functii_mouse.cpp",
               "RelativeDocumentMoniker": "SPGOpenGL\\functii_mouse.cpp",
-              "ToolTip": "D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\functii_mouse.cpp",
+              "ToolTip": "C:\\Users\\david\\IdeaProjects\\Game_menu\\3D-CAD-software\\SPGOpenGL\\functii_mouse.cpp",
               "RelativeToolTip": "SPGOpenGL\\functii_mouse.cpp",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAAEMAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-05-04T19:43:18.842Z",
+              "WhenOpened": "2026-05-05T09:06:48.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "type_vec3.inl",
+              "DocumentMoniker": "C:\\Users\\david\\IdeaProjects\\Game_menu\\3D-CAD-software\\SPGOpenGL\\include\\glm\\detail\\type_vec3.inl",
+              "RelativeDocumentMoniker": "SPGOpenGL\\include\\glm\\detail\\type_vec3.inl",
+              "ToolTip": "C:\\Users\\david\\IdeaProjects\\Game_menu\\3D-CAD-software\\SPGOpenGL\\include\\glm\\detail\\type_vec3.inl",
+              "RelativeToolTip": "SPGOpenGL\\include\\glm\\detail\\type_vec3.inl",
+              "ViewState": "AgIAACIAAAAAAAAAAAAawEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-05-05T11:30:08.503Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "header1.h",
+              "DocumentMoniker": "C:\\Users\\david\\IdeaProjects\\Game_menu\\3D-CAD-software\\SPGOpenGL\\header1.h",
+              "RelativeDocumentMoniker": "SPGOpenGL\\header1.h",
+              "ToolTip": "C:\\Users\\david\\IdeaProjects\\Game_menu\\3D-CAD-software\\SPGOpenGL\\header1.h",
+              "RelativeToolTip": "SPGOpenGL\\header1.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-05T09:06:49.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\david\\IdeaProjects\\Game_menu\\3D-CAD-software\\SPGOpenGL\\main.cpp",
+              "RelativeDocumentMoniker": "SPGOpenGL\\main.cpp",
+              "ToolTip": "C:\\Users\\david\\IdeaProjects\\Game_menu\\3D-CAD-software\\SPGOpenGL\\main.cpp",
+              "RelativeToolTip": "SPGOpenGL\\main.cpp",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAAAJ8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-03T16:44:01.116Z",
               "EditorCaption": ""
             }
           ]
