@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98D31254-17D8-41DA-A4C4-778E93D6AADC}|SPGOpenGL\\SPGOpenGL.vcxproj|D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{98D31254-17D8-41DA-A4C4-778E93D6AADC}|SPGOpenGL\\SPGOpenGL.vcxproj|solutionrelative:SPGOpenGL\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D31254-17D8-41DA-A4C4-778E93D6AADC}|SPGOpenGL\\SPGOpenGL.vcxproj|D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\fragment.frag||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98D31254-17D8-41DA-A4C4-778E93D6AADC}|SPGOpenGL\\SPGOpenGL.vcxproj|solutionrelative:SPGOpenGL\\fragment.frag||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98D31254-17D8-41DA-A4C4-778E93D6AADC}|SPGOpenGL\\SPGOpenGL.vcxproj|D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\vertex.vert||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98D31254-17D8-41DA-A4C4-778E93D6AADC}|SPGOpenGL\\SPGOpenGL.vcxproj|solutionrelative:SPGOpenGL\\vertex.vert||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\main.cpp",
+              "RelativeDocumentMoniker": "SPGOpenGL\\main.cpp",
+              "ToolTip": "D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\main.cpp",
+              "RelativeToolTip": "SPGOpenGL\\main.cpp",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAAAH0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-03T16:44:01.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "vertex.vert",
+              "DocumentMoniker": "D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\vertex.vert",
+              "RelativeDocumentMoniker": "SPGOpenGL\\vertex.vert",
+              "ToolTip": "D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\vertex.vert",
+              "RelativeToolTip": "SPGOpenGL\\vertex.vert",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-03T16:53:28.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fragment.frag",
+              "DocumentMoniker": "D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\fragment.frag",
+              "RelativeDocumentMoniker": "SPGOpenGL\\fragment.frag",
+              "ToolTip": "D:\\Facultate\\an3_sem2\\SPG\\Lab4Exemplu\\Lab4Exemplu\\SPGOpenGL\\fragment.frag",
+              "RelativeToolTip": "SPGOpenGL\\fragment.frag",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-05-03T16:53:27.02Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
